@@ -20,5 +20,6 @@ public class Main {
         shuffle(arr);//random sort.
 
         //test.
+
     }
 }
