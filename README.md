@@ -1,5 +1,7 @@
 # Algorithm
 
 SelectionSort
+
 BubbleSort
+
 InsertionSort
