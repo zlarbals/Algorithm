@@ -19,7 +19,10 @@ public class Main {
         }
         shuffle(arr);//random sort.
 
-        //test.
+        for(int i=0;i<10;i++)
+            System.out.println(arr[i]);
+        System.out.println("-------------------------");
 
+        //test.
     }
 }
