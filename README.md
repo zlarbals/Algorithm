@@ -6,3 +6,4 @@ BubbleSort
 
 InsertionSort
 
+QuickSort
