@@ -1,7 +1,7 @@
 public class BubbleSort {
     public void sort(int[] arr){
         int endFlag;
-        for(int i=0;i<arr.length-2;i++){
+        for(int i=0;i<=arr.length-2;i++){
             endFlag=1;
             for(int j=0;j<(arr.length-1)-i;j++){
                 if(arr[j]>arr[j+1]) {
